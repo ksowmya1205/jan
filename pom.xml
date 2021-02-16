@@ -10,6 +10,11 @@
   <name>counterWebApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
+  <scm>
+  <connection>scm:git:https://github.com/ksowmya1205/jan.git</connection>
+  <developerConnection>scm:git:https://github.com/ksowmya1205/jan.git</developerConnection>
+  </scm>
+
   <distributionManagement>
   <repository>
   <id>release</id>
